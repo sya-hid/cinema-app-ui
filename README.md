@@ -22,7 +22,7 @@
 ## Preview
 
 <p align="middle">
-<img src="assets/previews/home page.png" alt="Home Page" width="200">
-<img src="assets/previews/detail page.png" alt="Detail Page" width="200">
-<img src="assets/previews/reservation page.png" alt="Detail Page" width="200">
+<img src="assets/previews/home.png" alt="Home Page" width="200">
+<img src="assets/previews/detail.png" alt="Detail Page" width="200">
+<img src="assets/previews/reservation.png" alt="Reservation Page" width="200">
 </p>
