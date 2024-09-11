@@ -26,3 +26,4 @@
 <img src="assets/previews/detail.png" alt="Detail Page" width="200">
 <img src="assets/previews/reservation.png" alt="Reservation Page" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.cinema-app-ui"/>  
